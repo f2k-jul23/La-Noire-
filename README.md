@@ -44,6 +44,7 @@
   Choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
 * Double Click to install .
 * Enjoy...<br><br><br>
+---
 ## CONFIGURATION GUIDE
 * To unlock the full potential of La Noire, you need to set up your free API keys:
 ### Groq API Key
@@ -56,7 +57,9 @@
 *  Open your player.
 *  Click on API Settings at the bottom left of the sidebar.
 *  Enter your keys in the dedicated fields to activate AI features and Discogs data. 
-<br><br><br><br><br>    
+<br><br><br>
+---
+<br><br>    
      
 
 ![1](https://github.com/user-attachments/assets/6eb34373-ec49-486a-b42e-74b6f9b32552)<br>  
