@@ -40,20 +40,21 @@
 
 * Install Foobar2000 Stable Version 64bits : https://www.foobar2000.org/windows
 * Download and extract Zip : .............. soon
-* ## IMPORTANT : choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
+* # IMPORTANT :<br>
+  Choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
 * Double Click to install .<br><br>
-🛠️ Configuration Guide
-  To unlock the full potential of La Noire, you need to set up your free API keys:
-  # Groq API Key (Musicology & AI Stories)
-  Go to: https://console.groq.com/keys
-  Click Create API Key, copy it, and keep it safe.
-  # Discogs Token (Tags & Discographies)
-  Go to: https://www.discogs.com/settings/developers
-  Click Generate new token, copy it, and keep it safe.
-  Activation in Foobar2000
-  Open your player.
-  Click on API Settings at the bottom left of the sidebar.
-  Enter your keys in the dedicated fields to activate AI features and Discogs data. 
+## Configuration Guide
+* To unlock the full potential of La Noire, you need to set up your free API keys:
+* # Groq API Key (Musicology & AI Stories)
+* Go to: https://console.groq.com/keys
+* Click Create API Key, copy it, and keep it safe.
+* # Discogs Token (Tags & Discographies)
+* Go to: https://www.discogs.com/settings/developers
+*  Click Generate new token, copy it, and keep it safe.
+*  Activation in Foobar2000
+*  Open your player.
+*  Click on API Settings at the bottom left of the sidebar.
+*  Enter your keys in the dedicated fields to activate AI features and Discogs data. 
      
 
 ![1](https://github.com/user-attachments/assets/6eb34373-ec49-486a-b42e-74b6f9b32552)
