@@ -6,6 +6,7 @@
 
 
 <br><br><br>
+<hr>
 ## 🌟 FEATURES <br>
 
 AI integration for real-time overview stories and credits for Albums and Artists revues. ( language tab integrated ).<br>
