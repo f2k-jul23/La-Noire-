@@ -6,6 +6,8 @@
 
 
 <br><br><br>
+<bold>FEATURES :<bold> <br>
+
 AI integration for real-time overview stories and credits for Albums and Artists revues. ( language tab integrated ).<br>
 Albums filters with versions pressages and full details.<br>
 Artist view with round covers. Full biography and overview <br>
