@@ -7,30 +7,31 @@
 
 ---
 
-## 🌟 Key Features
+## 🌟 FEATURES
 
-### 🧠 Artificial Intelligence (Groq Engine)
-* **Real-time Insights**: Deep AI integration for instant artist biographies and album reviews with multi-language support.
-* **Musicology on Demand**: Get exclusive stories, hidden anecdotes, and detailed credits for every track via Groq API.
-* **AI Activity Monitor**: Dedicated real-time dashboard to monitor your token usage and request statistics.
-
-### ✈️ Interface & Visualization
-* **Soviet Cockpit Signal Path**: High-tech monitoring panel inspired by 1978 Russian fighter jet telemetry, featuring VBR and ReplayGain display.
-* **Immersive Effects**: Reactive Aurora engine and dynamic Parallax backgrounds perfectly matched to your album covers.
-* **Dynamic Range Monitor**: Native Dynamic Range (DR) meter integrated directly into the UI for instant audio analysis.
-* **Liquid Smooth UX**: Ultra-responsive smooth scrolling engine and professional-grade animations for a premium feel.
-
-### 📻 Radio & Library Management
-* **Global Radio Hub**: Hybrid search engine merging **Radio-browser.info** and **Radio.net** with full artwork support.
-* **Discogs Integration**: Access full discographies, various pressing versions, and advanced auto-tagging features.
-* **Digital Booklet**: Native visualization of PDF liner notes converted into high-resolution images.
-* **Pro Playlist Control**: Advanced management with multi-selection (Ctrl+A, Shift+Click) and visual queue management.
+* **AI Integration**: Real-time overview stories and credits for Albums and Artists (Integrated Language tab).
+* **Smart Filters**: Album filters with pressings, versions, and full release details.
+* **Artist View**: High-quality round covers with full biography and overview.
+* **Aesthetic Effects**: Immersive Aurora and Parallax effects (Automatic cover color matching).
+* **Fluid UX**: Liquid smooth scrolling and professional animations.
+* **Labels & Booklets**: Integrated Label pages and Digital PDF Booklet visualization.
+* **Signal Path**: Advanced visualization of Source, DSP, and Output (VBR and ReplayGain display via foo_outinfo).
+* **Audio Analysis**: Integrated Scan Dynamic Range (DR) calculation view.
+* **AI Engine**: Powered by Groq AI for interactive real-time stories and track credits.
+* **Lyrics**: Fully integrated lyrics engine.
+* **Queue System**: Advanced "Add to Queue" visual feedback.
+* **AI Dashboard**: Activity panel tracking requests and token usage.
+* **Display Modes**: Three dedicated playing panels, including a full-screen mode with spinning Vinyl.
+* **Global Radio**: Full integration of Radio-Browser and Radio.net with covers, genres, and favorites.
+* **Pro Playlists**: Full control with advanced selection (Ctrl+A, Shift+Click).
+* **Discogs Power**: Full Discography, version tracking, and Auto-Tagging via Discogs.
+* **Quick Access**: Dedicated DSP and Output hardware buttons.
 
 ---
 
-## ⚙️ Technical Highlights
-* **64-bit Native**: Fully optimized for the performance and stability of foobar2000 v2.x (x64).
-* **Smart Image Cache**: High-performance RAM management powered by a local Node.js server.
-* **Hybrid Architecture**: Combines the flexibility of JScript Panel 3 with the power of modern web technologies.
+## ⚙️ TECHNICAL HIGHLIGHTS
+* **64-bit Native**: Optimized for foobar2000 v2.x (x64) performance.
+* **Smart Cache**: High-speed image and RAM management via Node.js server.
+* **Hybrid Core**: Combines JScript Panel 3 with modern backend technology.
 
 ---
