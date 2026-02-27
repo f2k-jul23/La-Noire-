@@ -42,10 +42,13 @@
 * Download and extract Zip : .............. soon
 ### IMPORTANT :<br>
   Choose where to install . this will delete your previous files and theme. So make a copy if necessary of your own files .
-* Double Click to install .<br><br>
+* Double Click to install .
+* Enjoy...<br><br><br>
 ### Configuration Guide
+
 * To unlock the full potential of La Noire, you need to set up your free API keys:
-  ### Groq API Key (Musicology & AI Stories)
+ 
+### Groq API Key (Musicology & AI Stories)
 * Go to: https://console.groq.com/keys
 * Click Create API Key, copy it, and keep it safe.
 ### Discogs Token (Tags & Discographies)
