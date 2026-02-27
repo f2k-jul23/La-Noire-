@@ -1,4 +1,4 @@
-#  La Noire: Ultimate Hybrid Edition
+#  La Noire: 
 **64-bit foobar2000 Theme**
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 FEATURES
+## FEATURES
 
 * **AI Integration**: Real-time overview stories and credits for Albums and Artists (Integrated Language tab).
 * **Smart Filters**: Album filters with pressings, versions, and full release details.
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ TECHNICAL HIGHLIGHTS
+## TECHNICAL HIGHLIGHTS
 * **64-bit Native**: Optimized for foobar2000 v2.x (x64) performance.
 * **Smart Cache**: High-speed image and RAM management via Node.js server.
 * **Hybrid Core**: Combines JScript Panel 3 with modern backend technology.
